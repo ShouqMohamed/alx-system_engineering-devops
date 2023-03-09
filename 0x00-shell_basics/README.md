@@ -1,2 +1,2 @@
 #!/bin/bash
-Delete The file betty is in /tmp/my-first-directory
+Delete the directory my-first-directory that is in the /tmp directory
