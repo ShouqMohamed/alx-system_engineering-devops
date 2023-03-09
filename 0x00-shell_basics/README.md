@@ -1,2 +1,2 @@
 #!/bin/bash
-Display current directory contents with long format ,user and group IDs displayed numerically and And hidden files (starting with .) 
+a script that creates a directory named my-first-directory in the /tmp/ directory 
